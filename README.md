@@ -13,6 +13,8 @@ width="600px"/>
 <sup>You will see all of my content referred to collectively as the KMA-Domain — a broader umbrella for all KMA content.  
 More about it [here](https://kma-guides.netlify.app/about).</sup>
 
+---
+
 ## What You'll Find
 
 * Step-by-step guides
@@ -40,3 +42,5 @@ To make learning and figuring things out feel less overwhelming and more accessi
 ## Website
 
 🌐 [kma-guides.netlify.app](https://kma-guides.netlify.app/)  
+
+---
